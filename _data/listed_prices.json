@@ -8,7 +8,7 @@
   {"model":"iPhone 7","price":"$85.00"},
   {"model":"iPhone 7 Plus","price":"$95.00"},
   {"model":"iPhone 8","price":"$100.00"},
-  {"model":"iPhone 8 Plus","price":"$105.00"}
-  {"model":"iPhone X (Standard Quality)","price":"$175.00"}
+  {"model":"iPhone 8 Plus","price":"$105.00"},
+  {"model":"iPhone X (Standard Quality)","price":"$175.00"},
   {"model":"iPhone X (OLED Quality)","price":"$225.00"}
 ]
